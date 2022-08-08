@@ -9,7 +9,7 @@ Parsing json files by stdin and URL
 
 [**Download latest version (Windows)**](https://github.com/raylan-oliveira/jsonAnalytic/releases/latest)
 ## Demo:
-![Demon](https://raw.githubusercontent.com/raylan-oliveira/jsonAnalytic/main/img/demo.gif)
+![Demon](https://www.youtube.com/watch?v=MCq75ia0L_c "demo jsonAnalytic")
 
 ### Dependencies
    ```sh
