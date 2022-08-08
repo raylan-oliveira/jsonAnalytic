@@ -27,4 +27,5 @@ Parsing json files by stdin and URL
 ### Compile - Windows & Linux & Mac
    ```sh
 	pip install pyinstaller
-	pyinstaller jsonAnalytic.py --onefile	   ```
+	pyinstaller jsonAnalytic.py --onefile	   
+   ```
