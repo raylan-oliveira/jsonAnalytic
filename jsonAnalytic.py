@@ -217,6 +217,7 @@ if __name__ == "__main__":
 		
 		parser.add_argument("-i", "--input_", help='File .json or URL with json response', required=True, type=str)
 		
+		parser.add_argument("-p", "--pipe", help='Using pipe/stdin', required=False, type=str)
 		parser.add_argument('-k', '--keys_search', help='keys search', required=False, type=str, default=None,  nargs='+')
 		parser.add_argument('-c' , '--create_cache', help='Create *_cache.json', required=False, type=str, default='true')
 		
