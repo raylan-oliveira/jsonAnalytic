@@ -9,6 +9,9 @@ Parsing json files by stdin and URL
 
 [**Download latest version (Windows)**](https://github.com/raylan-oliveira/jsonAnalytic/releases/latest)
 ## Demo:
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
 ![Demon](https://www.youtube.com/watch?v=MCq75ia0L_c "demo jsonAnalytic")
 
 ### Dependencies
