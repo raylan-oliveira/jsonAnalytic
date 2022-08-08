@@ -21,10 +21,10 @@ Parsing json files by stdin and URL; Create a cache.json file from several parse
    
 ### Run
    ```sh
-	python jsonAnalytic.py -f file.json # list all keys in file.json
-	python jsonAnalytic.py -f file.json -k name url # list values keys [name, url] in file.json
-    cat list_jsons.txt | jsonAnalytic.py # list all json keys from list_jsons.txt
-    cat list_jsons.txt | jsonAnalytic.py -k url name # list all json values keys [url, name] from list_jsons.txt
+	python jsonAnalytic.py -i file.json # list all keys in file.json
+	python jsonAnalytic.py -i file.json -k name url # list values keys [name, url] in file.json
+    cat list_jsons.txt | jsonAnalytic.py -p # list all json keys from list_jsons.txt
+    cat list_jsons.txt | jsonAnalytic.py -p -k url name # list all json values keys [url, name] from list_jsons.txt
    ```
 	
 ### Compile - Windows & Linux & Mac
