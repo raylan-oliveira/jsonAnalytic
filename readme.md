@@ -11,6 +11,8 @@ Parsing json files by stdin and URL; Create a cache.json file from several parse
 ## Demo:
 ![Demon](https://raw.githubusercontent.com/raylan-oliveira/demos/main/demos/jsonAnalytic.gif)
 
+## Demo Cache:
+![Demon](https://raw.githubusercontent.com/raylan-oliveira/demos/main/demos/jsonAnalytic_cache.gif)
 
 ### Dependencies
    ```sh
