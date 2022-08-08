@@ -4,7 +4,7 @@
 List all keys & all values in .json; [Windows, Linux, Mac]
 
 ## Features
-Parsing json files by stdin and URL; Create a cache.json file from several parsed .json files
+Parsing json files by stdin and URL; Create a cache.json file from several parsed .json files / [Multiprocessing coming soon]
 
 
 [**Download latest version (Windows)**](https://github.com/raylan-oliveira/jsonAnalytic/releases/latest)
