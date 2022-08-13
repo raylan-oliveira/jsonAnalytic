@@ -1,0 +1,11 @@
+https://br.betano.com/api/structurerequirements/configuration/
+https://www.abibliadigital.com.br/api/verses/nvi/sl/119
+https://api.linguarobot.io/language/v1/entries/en/example
+https://excuser.herokuapp.com/v1/excuse
+https://api.energidataservice.dk/view/elspotpricelastday
+https://lookup.binlist.net/45717360
+https://aws.random.cat/meow?ref=apilist.fun
+https://api.coindesk.com/v1/bpi/currentprice.json
+https://api.nationalize.io/?name=python
+https://datausa.io/api/data?drilldowns=Nation&measures=Population
+https://br.betano.com/api/home/?req=la,t,l,s,stnf,c,mb,mbl
